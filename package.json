@@ -1,0 +1,24 @@
+{
+  "name": "recurring-select",
+  "version": "0.0.0",
+  "description": "Recurrence rule UI element to help with recurring events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naomiaro/recurring-select.git"
+  },
+  "keywords": [
+    "recurrence",
+    "recurring",
+    "events"
+  ],
+  "author": "Naomi Aro <naomiaro@gmail.com> (http://naomiaro.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naomiaro/recurring-select/issues"
+  },
+  "homepage": "https://github.com/naomiaro/recurring-select#readme"
+}
